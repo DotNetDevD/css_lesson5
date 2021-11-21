@@ -14,8 +14,6 @@ body {
 .sq div {
   display: inline-block;
   text-align: center;
-  vertical-align: 300px;
-  font-size: 1.5em;
   float:left;
 }
 
