@@ -8,27 +8,28 @@ body {
   margin: 0 auto;
 }
 
-.square div {
-  display: inline-block;
-  text-align: center;
-  vertical-align: 300px;
-  font-size: 1.5em;
-  float:left;
+.sq{
+  display: block;
+  margin: 0 0;
+  padding: 0;
 }
 
-.square div p {
-  margin: 0 0;
+p {
+  text-align: center;
   display: table-cell;
   vertical-align: middle;
   height: 20vh;
   width: 20vh;
+  margin: 0 0;
 }
 
 .yellow {
   background: #ffcf73;
+  text-align: center;
   color: #6b8fd4;
 }
 .blue {
   background: #6b8fd4;
+  text-align: center;
   color: #ffcf73;
 }
