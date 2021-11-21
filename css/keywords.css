@@ -19,7 +19,7 @@ h1 {
 ul {
   background: White;
   margin: 0;
-  padding: 11px 0 14px;
+  padding: 10px 0 14px 2px;
 }
 li {
   display: inline;
@@ -27,6 +27,6 @@ li {
 }
 a {
   color:#403E3C;
-  font-size: 16.5px;
+  font-size: 16.34px;
   font-family: Arial;
 }
